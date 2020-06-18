@@ -296,3 +296,9 @@ DEPENDENCIES
   simple_form
   thin
   uglifier (>= 1.0.3)
+
+RUBY VERSION
+   ruby 2.0.0p598
+
+BUNDLED WITH
+   1.17.3
